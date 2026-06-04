@@ -7,6 +7,8 @@ import t4 from './images/t4.jpeg';
 import t5 from './images/t5.jpeg';
 import t6 from './images/t6.jpeg';
 import twt from './images/twlyt.jpeg';
+import hk from './images/hk.jpeg';
+import hw from './images/hw.jpeg';
 
 
 const carouselImages = [
@@ -20,6 +22,8 @@ const carouselImages = [
 
 const clientLogos = [
   twt,
+  hk,
+  hw,
 ];
 
 function Home() {

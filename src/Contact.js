@@ -2,8 +2,7 @@ import "./index.css";
 import {
   FaWhatsapp,
   FaInstagram,
-  FaFacebook,
-  FaLinkedin,
+ 
 } from "react-icons/fa";
 
 function Contact() {
@@ -40,10 +39,10 @@ function Contact() {
           <h3>Connect With Us</h3>
 
           <div className="icons">
-            <a href="#"><FaWhatsapp /></a>
-            <a href="#"><FaInstagram /></a>
-            <a href="#"><FaFacebook /></a>
-            <a href="#"><FaLinkedin /></a>
+            <a href="https://wa.me/0582551269"   target="_blank"
+  rel="noopener noreferrer"><FaWhatsapp /></a>
+
+            <a href="https://www.instagram.com/twilyte1?igsh=eTEzcDhiem82b216&utm_source=qr"  target="_blank" rel="noopener noreferrer"><FaInstagram /></a>
           </div>
 
           <p>
